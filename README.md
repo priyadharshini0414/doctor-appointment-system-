@@ -16,7 +16,7 @@ The application allows users to view doctors, book appointments, and manage sche
 
 * View list of doctors
 * Book appointments
-* Prevent duplicate bookings ❗
+* Prevent duplicate bookings 
 * REST API integration
 * Responsive user interface
 
